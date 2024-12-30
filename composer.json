@@ -1,0 +1,16 @@
+{
+    "name": "Hamza-Mughales/json-http-client",
+    "description": "A package for sending HTTP requests",
+    "authors": [
+        {
+            "name": "Hamza-Mughales",
+            "email": "hamzawemughales@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HamzaMughales\\HttpClient\\": "src/"
+        }
+    }
+}
